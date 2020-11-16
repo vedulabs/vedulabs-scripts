@@ -1,0 +1,25 @@
+"assistantSlides": {
+    "slides": [
+        {
+            "id": "as1",
+            "textBlocks": [
+                {
+                    "id": "as1_tb1",
+                    "text": [
+                        "en": "Slide 1 Heading",
+                        "ua": "Слайд 1 Заголовок",
+                        "ru": "Слайд 1 Заголовок",
+                    ]
+                },
+                {
+                    "id": "as1_tb2",
+                    "text": [
+                        "en": "Objectives",
+                        "ua": "Мета роботи",
+                        "ru": "Цель работы",
+                    ]
+                }
+            ]
+        }
+    ]
+}
